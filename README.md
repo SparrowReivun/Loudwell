@@ -12,8 +12,6 @@
 
 > Hello, my dear sound-obsessed friend. I have good news for you: state-of-the-art automatic mixing can finally serve not only professional audio producers, but also the rest of us who simply love music. Please let me introduce **Loudwell** — software you open and it just works. It already lets me focus 100% on the music, videos and games I play, and has taken away most of my daily volume adjustments.
 
-> **About the name:** Loudwell is the public name of this software. The current build still carries its working name *AutoLoud* (the download is `AutoLoud-windows.zip`, the program is `AutoLoud.exe`, and the window says AutoLoud). Later builds will be renamed.
-
 ## Why Loudwell?
 
 Have you ever wondered how many times a day you need to adjust the volume?
@@ -40,8 +38,8 @@ Loudwell acts as your personal sound assistant: it continually learns and rememb
 
 ## Download and installation
 
-1. Download the latest `AutoLoud-windows.zip` from [Releases](https://github.com/SparrowReivun/Loudwell/releases) (about 100 MB; no Python installation required).
-2. Extract it anywhere and run `AutoLoud.exe`. **Keep the whole extracted folder together** — do not move the `exe` on its own; the program needs the files next to it, and your settings and logs live in the same folder.
+1. Download the latest `Loudwell-windows.zip` from [Releases](https://github.com/SparrowReivun/Loudwell/releases) (about 100 MB; no Python installation required).
+2. Extract it anywhere and run `Loudwell.exe`. **Keep the whole extracted folder together** — do not move the `exe` on its own; the program needs the files next to it, and your settings and logs live in the same folder.
 3. Before the first launch, connect your headphones or speakers and make sure they play sound normally.
 
 ### First launch: install VB-CABLE (recommended)
@@ -280,7 +278,7 @@ Contact:
 
 ## 6. Usage tips and feedback
 
-If Loudwell is useful in your daily routine, consider enabling **“Start AutoLoud with Windows”** on the overview page, so you don't have to launch it manually each time.
+If Loudwell is useful in your daily routine, consider enabling **“Start Loudwell with Windows”** on the overview page, so you don't have to launch it manually each time.
 
 Loudwell continues to evolve. We welcome reports about the experience, especially audio situations that it still handles poorly.
 
