@@ -1,0 +1,6 @@
+# nothing but the README, its images and (in Releases) the installer belongs here
+*.py
+*.pyc
+__pycache__/
+*.zip
+*.log
